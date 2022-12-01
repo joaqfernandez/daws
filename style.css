@@ -1,0 +1,15 @@
+*{
+    margin-left: 5px;
+    font-family: 'Oswald', sans-serif;
+}
+#descripcion{
+margin: 6px;
+padding-left: 3%;
+}
+
+#navbar{
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    color: white;
+}
